@@ -1,0 +1,8 @@
+blue
+red
+orange
+silver
+black
+white
+green
+turquise
